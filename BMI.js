@@ -17,3 +17,7 @@ function calculate(){
         document.getElementById('result').innerHTML = result.toFixed(2) + " " + 'Obese'
     }
 }
+
+function clean(){
+    window.location.reload();
+}

@@ -19,6 +19,7 @@ button{
     padding: 10px;
     border-radius: 12px;
     font-weight: bold;
+    width: 100px;
 }
 
 
@@ -29,9 +30,10 @@ input{
     display: flex;
     padding: 20px;
     font-weight: bold;
+    height: 1px;
 } 
 
-.height, label, .weight, h2{
+.height, label, .weight, h2, div{
     background-color: #B0DAFF;
 } 
 
@@ -49,4 +51,8 @@ label{
     font-size: 20px;
     font-weight: 700;
     
+}
+
+.height, .weight{
+    display: flex;
 }
