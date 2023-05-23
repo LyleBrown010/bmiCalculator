@@ -1,0 +1,16 @@
+*{
+    margin: 10px;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+
+.container{
+    border: 3px groove black;
+    border-style: ridge;
+}
+
+
+input{
+    border: 3px solid black;
+    display: flex;
+}
